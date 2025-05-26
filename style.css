@@ -1,0 +1,9 @@
+#Bn {
+  position: absolute;
+  transition: 0.3s ease;
+}
+
+#Tombol {
+  position: relative;
+  height: 200px; /* atau lebih sesuai kebutuhan */
+}
